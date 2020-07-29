@@ -1,5 +1,5 @@
-# manthan-chart
-This application uses Google Line chart for visualization.
+# vue-google-chart
+This application uses Google Line chart for visualization with Vuejs
 ```
 https://developers.google.com/chart/interactive/docs/gallery/linechart
 ```
